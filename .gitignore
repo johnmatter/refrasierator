@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+transcripts/parsed_by_character/
+transcripts/raw/
